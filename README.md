@@ -1,4 +1,4 @@
 ### TodoList-app
-##React js
-#Fontawesome
-#Author - Adnan Shabir
+## React js
+# Fontawesome
+# Author - Adnan Shabir
